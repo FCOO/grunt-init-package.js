@@ -1,19 +1,16 @@
 {
-  "name"		: "{%= name %}",
-  "version"	: "0.0.0",
-  "homepage": "https://github.com/FCOO/{%= name %}",
-	"author": "{%= author_name %} {%= author_email %}",
-	"description": "package.json is only use for building the package. see bower.json for more info",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/FCOO/{%= name %}.git"
-	},
-  "dependencies": {
-    "grunt"                  : "^0.4.0",
-    "grunt-fcoo-grunt-plugin": "^0.4.0"
-  },
-  "jshintConfig": {
-    "jshintrc": true
-  },
-  "license": "MIT"
+    "name"		 : "{%= name %}",
+    "version"	 : "0.0.0",
+    "homepage"   : "https://github.com/FCOO/{%= name %}",
+    "author"     : "{%= author_name %} {%= author_email %}",
+    "description": "package.json is only use for building the package. see bower.json for more info",
+    "repository" : {
+        "type": "git",
+        "url" : "git://github.com/FCOO/{%= name %}.git"
+    },
+    "dependencies": {
+        "grunt"                  : "^0.4.0",
+        "grunt-fcoo-grunt-plugin": "^1.0.0"
+    },
+    "license": "MIT"
 }
