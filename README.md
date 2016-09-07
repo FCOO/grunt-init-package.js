@@ -7,4 +7,4 @@ It is used by the FCOOs Templates: [fcoo-application](https://github.com/FCOO/gr
 
 When these templates are installed using `grunt-init` they will also install `gruntfile.js` and a `package.json` from github.com/FCOO/fcoo-gruntfile.js and fcoo-grunt-plugin
 
-The `gruntfile.js` only uses [grunt](http://gruntjs.com) and [fcoo-grunt-plugin](https://github.com/FCOO/fcoo-grunt-plugin) containing the code for all the grunt tasks
+The `gruntfile.js` only uses [grunt](http://gruntjs.com) and [fcoo-grunt-plugin](https://github.com/FCOO/fcoo-grunt-plugin) containing the code for all the grunt tasks.
