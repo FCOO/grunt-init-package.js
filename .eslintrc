@@ -14,7 +14,7 @@
         "Raven"     : false
     },
 
-    "allowInlineConfig": false,
+    "allowInlineConfig": true,
 
     "rules": {
         "strict"                  : "error",
