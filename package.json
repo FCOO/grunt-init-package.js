@@ -8,9 +8,9 @@
         "type": "git",
         "url" : "git://github.com/FCOO/{%= name %}.git"
     },
-    "dependencies": {
-        "grunt"                  : "^1.0.0",
-        "grunt-fcoo-grunt-plugin": "^3.3.0"
+    "dependencies": {},
+    "devDependencies": {
+        "grunt-fcoo-grunt-plugin": "^5.0.0"
     },
     "license": "MIT"
 }
