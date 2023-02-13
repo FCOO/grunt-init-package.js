@@ -1,10 +1,11 @@
-# fcoo-gruntfile.js
+# grunt-init-package.js
 
 
-`fcoo-gruntfile.js` contains a templates for `package.json` and the default version of `gruntfile.js`
+`grunt-init-package.js` contains a templates for `package.json` and the default configuration files ("dotfiles") for different scripts and utilities (bower, git, yarn, eslint etc.)
 
-It is used by the FCOOs Templates: [fcoo-application](https://github.com/FCOO/grunt-init-fcoo-application), [fcoo-leaflet](https://github.com/FCOO/grunt-init-fcoo-leaflet), and [fcoo-jquery](https://github.com/FCOO/grunt-init-fcoo-jquery)
+It is used by the FCOOs Templates: 
 
-When these templates are installed using `grunt-init` they will also install `gruntfile.js` and a `package.json` from github.com/FCOO/fcoo-gruntfile.js and fcoo-grunt-plugin
-
-The `gruntfile.js` only uses [grunt](http://gruntjs.com) and [fcoo-grunt-plugin](https://github.com/FCOO/fcoo-grunt-plugin) containing the code for all the grunt tasks.
+- [grunt-init-fcoo-application](https://github.com/FCOO/grunt-init-fcoo-application)
+- [grunt-init-fcoo-maps](https://github.com/FCOO/grunt-init-fcoo-maps)
+- [FCOO/grunt-init-fcoo-leaflet](https://github.com/FCOO/grunt-init-fcoo-leaflet)
+- [grunt-init-fcoo-jquery](https://github.com/FCOO/grunt-init-fcoo-jquery)
