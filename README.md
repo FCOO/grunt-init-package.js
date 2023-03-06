@@ -7,5 +7,5 @@ It is used by the FCOOs Templates:
 
 - [grunt-init-fcoo-application](https://github.com/FCOO/grunt-init-fcoo-application)
 - [grunt-init-fcoo-maps](https://github.com/FCOO/grunt-init-fcoo-maps)
-- [FCOO/grunt-init-fcoo-leaflet](https://github.com/FCOO/grunt-init-fcoo-leaflet)
+- [grunt-init-fcoo-leaflet](https://github.com/FCOO/grunt-init-fcoo-leaflet)
 - [grunt-init-fcoo-jquery](https://github.com/FCOO/grunt-init-fcoo-jquery)
